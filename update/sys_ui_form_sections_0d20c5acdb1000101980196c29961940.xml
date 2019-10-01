@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_form_sections form_id="0d20c5acdb1000101980196c29961940" sys_domain="global" table="x_58872_needit_needit_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-01 20:57:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed6f02a8db5400101980196c299619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit_task" name="x_58872_needit_needit_task" sys_domain="global" view="NULL">0d20c5acdb1000101980196c29961940</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">b69f786cdb1000101980196c2996197b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-01 20:57:37</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_58872_needit_needit_task</name>
             <roles/>
